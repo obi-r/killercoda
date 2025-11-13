@@ -1,4 +1,4 @@
 
 <br>
 
-### Let's learn some Kubernetes
+### Kubernetesの勉強を始めよう！

@@ -1,6 +1,6 @@
 
 <br>
 
-### WELL DONE !
+### テスト完了
 
-You solved this challenge!
+合格です！
